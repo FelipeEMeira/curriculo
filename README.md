@@ -1,2 +1,2 @@
 # curriculo
-Página web para Currículo em preggramação e tecnologia.
+Página web para Currículo em programação e tecnologia.
